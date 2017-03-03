@@ -99,7 +99,7 @@ The key mapping is not the same as a generic keypad. Some issues that we found u
 * the PS2 controller may require the "PS" key to be pushed before the controller is active
 * the right "triangle", "circle" and "X" are not directly supported in the _keyevent.keycode_.
 
- Below is some Python code topick up the PS2 keys.
+Below is some Python code topick up the PS2 keys.
  
  ```python
  from evdev import InputDevice, categorize, ecodes
