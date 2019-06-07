@@ -1,7 +1,7 @@
 # Pi Python Gamepad Support
 Add wireless keywireless keyboard, gamepad or PS2 Controller interfaces to Pi projects
 
-##Introduction
+## Introduction
 
 For many Pi projects there is a requirement to have manual controls. These controls could be:
 * wireless keyboards
