@@ -88,7 +88,7 @@ for event in gamepad.read_loop():
             print ("Problem key pressed...")
   ```
   
-#PS2 Controllers
+# PS2 Controllers
 
 ![ps2 pad](ps2_pi.png)
 
